@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# My atributes
+* I know something about **physics**
+* I *love* **cats** :cat:
+* I want to become a **developer**
